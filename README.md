@@ -1,4 +1,5 @@
-## Hello, I am Arannamoy Mondal. 👋
+## Hello, I am Arannamoy Mondal. 
+## I am a problem solver. 
 
 <!--
 **Arannamoy-Mondal/Arannamoy-Mondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
