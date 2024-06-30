@@ -1,4 +1,4 @@
-## Hello, I am Arannamoy Mondal. :so
+## Hello, I am Arannamoy Mondal.
 ## I am a problem solver. 
 
 <!--
