@@ -26,6 +26,7 @@
             <p>Frontend: HTML, CSS</p>
             <p>Database: MySQL</p>
             <p>Tools: Git</p>
+            <p>Productivity: MS Powerpoint</p>
             <!-- <p></p> -->
         </h2>
         <h2 style="font-weight: bold;">See more details about me you can see my github repositories. <a href="https://github.com/Arannamoy-Mondal?tab=repositories" style="color:blueviolet">See more</a></h2>
