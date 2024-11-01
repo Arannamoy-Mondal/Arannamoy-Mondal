@@ -20,14 +20,14 @@
             <li><span></span></li> -->
             <!-- <li><span></span></li>
         </ul> -->
-        <h3>
+        <h2>
             <p>Programming Languages: C, C++, Java, Javascript, Python</p>
             <p>Backend: Django</p>
             <p>Frontend: HTML, CSS</p>
             <p>Database: MySQL</p>
             <p>Tools: Git</p>
             <!-- <p></p> -->
-        </h3>
+        </h2>
         <h2 style="font-weight: bold;">See more details about me you can see my github repositories. <a href="https://github.com/Arannamoy-Mondal?tab=repositories" style="color:blueviolet">See more</a></h2>
     </main>
 </body>
