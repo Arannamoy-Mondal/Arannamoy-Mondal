@@ -9,7 +9,6 @@
         <h2>Hi, I am <span style="font-weight: bold;">Arannamoy Mondal</span>. I am passionate about technology, innovation.</h3>
         <hr>
         <h2 style="font-weight: bold;">My Skills:</h2>
-        <hr>
         <ul>
             <li><span style="font-weight: bold;">Programming Languages: </span>C, C++, Java, Javascript, Python</li>
             <li><span style="font-weight: bold;">Backend: </span>Django</li>
@@ -22,7 +21,6 @@
             <!-- <li><span></span></li> -->
             <!-- <li><span></span></li> -->
         </ul>
-        <hr>
         <h3 style="font-weight: bold;">See more details about me you can see my github repositories.</h3>
     </main>
 </body>
