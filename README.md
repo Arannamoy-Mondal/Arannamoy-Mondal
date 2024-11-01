@@ -8,7 +8,7 @@
     <main>
         <h2>Hi, I am <span style="font-weight: bold;">Arannamoy Mondal</span>. I am passionate about technology, innovation.</h3>
         <h2 style="font-weight: bold;">My Skills:</h2>
-        <ul>
+        <!-- <ul>
             <li><span style="font-weight: bold;">Programming Languages: </span>C, C++, Java, Javascript, Python</li>
             <li><span style="font-weight: bold;">Backend: </span>Django</li>
             <li><span style="font-weight: bold;">Frontend: </span>HTML, CSS</li>
@@ -17,9 +17,17 @@
             <li><span style="font-weight: bold;">Infra: </span>None</li>
             <li><span style="font-weight: bold;">Productivity: </span>None</li>
             <li><span style="font-weight: bold;">Cloud: </span>AWS</li>
-            <!-- <li><span></span></li> -->
-            <!-- <li><span></span></li> -->
-        </ul>
+            <li><span></span></li> -->
+            <!-- <li><span></span></li>
+        </ul> -->
+        <h3>
+            <p>Programming Languages: C, C++, Java, Javascript, Python</p>
+            <p>Backend: Django</p>
+            <p>Frontend: HTML, CSS</p>
+            <p>Database: MySQL</p>
+            <p>Tools: Git</p>
+            <!-- <p></p> -->
+        </h3>
         <h3 style="font-weight: bold;">See more details about me you can see my github repositories. <a href="https://github.com/Arannamoy-Mondal?tab=repositories" style="color:blueviolet">See more</a></h3>
     </main>
 </body>
