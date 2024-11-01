@@ -6,20 +6,24 @@
 </head>
 <body>
     <main>
-        <h3>Hi, I am Arannamoy Mondal. I am passionate about technology, innovation.</h3>
+        <h2>Hi, I am <span style="font-weight: bold;">Arannamoy Mondal</span>. I am passionate about technology, innovation.</h3>
+        <hr>
+        <h2 style="font-weight: bold;">My Skills:</h2>
         <hr>
         <ul>
-            <li><span>Programming Languages: </span>C, C++, Java, Javascript, Python</li>
-            <li><span>Backend: </span>Django</li>
-            <li><span>Frontend: </span>HTML, CSS</li>
-            <li><span>Database: </span>MySQL</li>
-            <li><span>Tools: </span>Git</li>
-            <li><span>Infra: </span>None</li>
-            <li><span>Productivity: </span>None</li>
-            <li><span>Cloud: </span>AWS</li>
+            <li><span style="font-weight: bold;">Programming Languages: </span>C, C++, Java, Javascript, Python</li>
+            <li><span style="font-weight: bold;">Backend: </span>Django</li>
+            <li><span style="font-weight: bold;">Frontend: </span>HTML, CSS</li>
+            <li><span style="font-weight: bold;">Database: </span>MySQL</li>
+            <li><span style="font-weight: bold;">Tools: </span>Git</li>
+            <li><span style="font-weight: bold;">Infra: </span>None</li>
+            <li><span style="font-weight: bold;">Productivity: </span>None</li>
+            <li><span style="font-weight: bold;">Cloud: </span>AWS</li>
             <!-- <li><span></span></li> -->
             <!-- <li><span></span></li> -->
         </ul>
+        <hr>
+        <h3 style="font-weight: bold;">See more details about me you can see my github repositories.</h3>
     </main>
 </body>
 </html>
