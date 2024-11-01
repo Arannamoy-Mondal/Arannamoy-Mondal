@@ -28,7 +28,7 @@
             <p>Tools: Git</p>
             <!-- <p></p> -->
         </h3>
-        <h3 style="font-weight: bold;">See more details about me you can see my github repositories. <a href="https://github.com/Arannamoy-Mondal?tab=repositories" style="color:blueviolet">See more</a></h3>
+        <h2 style="font-weight: bold;">See more details about me you can see my github repositories. <a href="https://github.com/Arannamoy-Mondal?tab=repositories" style="color:blueviolet">See more</a></h2>
     </main>
 </body>
 </html>
