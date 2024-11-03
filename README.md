@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--<h3 align="center">A passionate frontend developer from India</h3>-->
+<!--<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arannamoy-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="arannamoy-mondal" /> </p>
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<!--<h3 align="left">Connect with me:</h3>-->
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -64,5 +64,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arannamoy-mondal&show_icons=true&locale=en" alt="arannamoy-mondal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arannamoy-mondal&" alt="arannamoy-mondal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arannamoy-mondal&" alt="arannamoy-mondal" /></p>-->
 
