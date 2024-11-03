@@ -22,7 +22,7 @@
         </ul> -->
         <h2>
             <p>Programming Languages: C, C++, Java, Javascript, Python</p>
-            <p>Backend: Django</p>
+            <p>Framework: Django</p>
             <p>Frontend: HTML, CSS</p>
             <p>Database: MySQL</p>
             <p>Tools: Git</p>
