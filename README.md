@@ -1,6 +1,6 @@
-# Hi there, I'm Arannamoy Mondal 👋
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Arannamoy-Mondal&color=blue)
+
+# Hi there, I'm Arannamoy Mondal 👋
 
 ## About Me
 
