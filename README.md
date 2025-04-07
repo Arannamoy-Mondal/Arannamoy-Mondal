@@ -30,7 +30,7 @@
 
 ## GitHub Stats
 
-![Arannamoy Mondal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arannamoy-Mondal&show_icons=true&theme=radical)
+<!-- ![Arannamoy Mondal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arannamoy-Mondal&show_icons=true&theme=radical) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arannamoy-Mondal&layout=compact&theme=radical)
 
