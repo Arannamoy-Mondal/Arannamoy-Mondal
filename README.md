@@ -14,8 +14,8 @@
 ## Skills
 
 - **Languages:** JavaScript, Python, Java, C++
-- **Frontend Development:** HTML, CSS,
-- **Backend Development:** Django
+- **Frontend Development:** HTML, CSS, React
+- **Backend Development:** Django, Node Js
 - **Databases:** MySQL, PostgreSQL
 <!-- - **DevOps:** Docker, Kubernetes, CI/CD -->
 - **Tools and Platforms:** Git, GitHub, VS Code
