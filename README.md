@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Arannamoy-Mondal&color=blue)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Arannamoy-Mondal&color=blue) -->
 
 # Hi there, I'm Arannamoy Mondal 👋
 
@@ -34,6 +34,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arannamoy-Mondal&layout=compact&theme=radical)
 
+![Arannamoy-Mondal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arannamoy-Mondal&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arannamoy-Mondal&" alt="Arannamoy-Mondal" /></p>
 <!-- ## Connect with Me -->
 
 <!-- - [LinkedIn](https://www.linkedin.com/in/arannamoy-mondal/) -->
