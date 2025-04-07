@@ -9,11 +9,11 @@
 - 💬 Ask me about JavaScript, Python, and Web Development.
 <!-- - 📫 How to reach me: [Email](mailto:your-email@example.com) -->
 <!-- - 😄 Pronouns: They/Them -->
-- ⚡ Fun fact: I love solving complex problems and contributing to open-source projects.
+<!--- ⚡ Fun fact: I love solving complex problems and contributing to open-source projects. -->
 
 ## Skills
 
-- **Languages:** JavaScript, Python, Java, C++
+- **Languages:** JavaScript, Python, Java, C++, Solidity
 - **Frontend Development:** HTML, CSS, React
 - **Backend Development:** Django, Node Js
 - **Databases:** MySQL, PostgreSQL
