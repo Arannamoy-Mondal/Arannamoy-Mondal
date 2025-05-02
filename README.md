@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning and exploring new technologies.
+- 🌱 I’m currently learning and exploring new technologies. Like as Blockchain, Smart Contracts.
 - 🔭 I’m currently working on various exciting projects.
 - 💬 Ask me about JavaScript, Python, and Web Development.
   
