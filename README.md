@@ -12,7 +12,7 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 ---
 
 ## 🚀 Tech Stack & Tools
-`C` `C++` `Python` `Java` `Javascript` `React` `ExpressJS` `NodeJS` `Django` `Django Rest Framework` `MySQL` `PostgreSQL` `MongoDB` `Firebase` `Solidity`
+`C` `C++` `Python` `Java` `Javascript` `React` `ExpressJS` `NodeJS` `Django` `Django Rest Framework` `Solidity` `MySQL` `PostgreSQL` `MongoDB` `Firebase` 
 
 
 ---
@@ -27,10 +27,6 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 - 🧥 Winter Clothing Donation Platform for Bangladesh
 - 📚 Currently enrolled in [IIT Guwahati's BSc in Data Science & AI](https://www.iitg.ac.in/acad/bsc-dsai/) -->
 
----
-
-
----
 
 <!--## 🏆 Competitive Programming
 
