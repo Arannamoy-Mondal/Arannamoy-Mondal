@@ -12,30 +12,18 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 ---
 
 ## 🚀 My Tech Stack & Tools
-`C` `C++` `Python` `Java` `Javascript` `Typescript` `React` `ExpressJS` `NodeJS` `Django` `Django Rest Framework` `Solidity` `MySQL` `PostgreSQL` `MongoDB` `Firebase` 
-<li>Languages:</li>  
-
-``C``
-
-<!--
-Languages
-Backend - Spring Boot Node.js Express.js
-Frontend - React
-Database - PostgreSQL OracleDB MongoDB
-Data Stores - Redis Kafka
-Tools - Git Github workflow
-Testing - JUnit5 Mockito Gatling Testify Test Container
-Infra - Docker Kubernetes Linux
-Cloud - Azure Cloud Service
-Productivity - Jira MS Powerpoint Adobe Photoshop-->
----
+**Languages :** `C` `C++` `Java` `Javascript` `Python` `SQL` `Solidity` `Typescript` 
+**Frontend :** `React`
+**Backend :** `Django` `Node.js` `Express.js` `Firebase`
+**Database :** `MySQL` `PostgreSQL` `MongoDB`
+**Tools :** `Git` `Github`
 
 ## 🧠 Interests 
 <!-- & Projects -->
 
-- 🤖 AI-based brain mapping and emotion detection
-- 🔗 Blockchain & smart contract development
-- 📊 Data analytics and visualization
+- 🤖 AI-based brain mapping, eeg.
+- 🔗 Blockchain & smart contract development.
+- 📊 Higher Frequency Trading Algorithm.
 <!-- 
 - 🧥 Winter Clothing Donation Platform for Bangladesh
 - 📚 Currently enrolled in [IIT Guwahati's BSc in Data Science & AI](https://www.iitg.ac.in/acad/bsc-dsai/) -->
