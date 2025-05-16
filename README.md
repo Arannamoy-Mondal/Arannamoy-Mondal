@@ -32,7 +32,9 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 - 📚 Currently enrolled in [IIT Guwahati's BSc in Data Science & AI](https://www.iitg.ac.in/acad/bsc-dsai/) -->
 
 
-<!--## 🏆 Competitive Programming
+## 📚 Currently Learning
+- `Data Science & Visualization`
+- `Deep Learning & LLMs`
 
 - 🔢 Solved **450+** problems on platforms like Codeforces, LeetCode, and HackerRank
 - 🚀 Always improving logic & algorithmic thinking!
