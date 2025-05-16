@@ -47,7 +47,7 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
   <img src="https://github-readme-stats.vercel.app/api?username=Arannamoy-Mondal&show_icons=true&theme=tokyonight" width="48%" />
  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arannamoy-Mondal&theme=tokyonight" width="48%" />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Arannamoy-Mondal)](https://git.io/streak-stats)
+ <img src="https://streak-stats.demolab.com?user=Arannamoy-Mondal">
 
 </p>
 
