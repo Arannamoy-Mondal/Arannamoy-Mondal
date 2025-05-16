@@ -21,12 +21,14 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 
 - **Tools :** `Git` `Github`
 
-## 🧠 Interests 
+## 🌟 Highly Interested In
 <!-- & Projects -->
-
 - 🤖 AI-based brain mapping, eeg ( Electroencephalography ).
 - 🔗 Blockchain & smart contract development.
 - 📊 Higher Frequency Trading Algorithm.
+
+## 🧩 Special Interest: 
+- Blockchain Layer 3
 <!-- 
 - 🧥 Winter Clothing Donation Platform for Bangladesh
 - 📚 Currently enrolled in [IIT Guwahati's BSc in Data Science & AI](https://www.iitg.ac.in/acad/bsc-dsai/) -->
