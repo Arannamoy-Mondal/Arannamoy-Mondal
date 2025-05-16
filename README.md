@@ -12,15 +12,15 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 ---
 
 ## 🚀 My Tech Stack & Tools
--**Languages :** `C` `C++` `Java` `Javascript` `Python` `SQL` `Solidity` `Typescript` 
+- **Languages :** `C` `C++` `Java` `Javascript` `Python` `SQL` `Solidity` `Typescript` 
 
--**Frontend :** `React`
+- **Frontend :** `React`
 
--**Backend :** `Django` `Node.js` `Express.js` `Firebase`
+- **Backend :** `Django` `Node.js` `Express.js` `Firebase`
 
--**Database :** `MySQL` `PostgreSQL` `MongoDB`
+- **Database :** `MySQL` `PostgreSQL` `MongoDB`
 
--**Tools :** `Git` `Github`
+- **Tools :** `Git` `Github`
 
 ## 🧠 Interests 
 <!-- & Projects -->
