@@ -25,7 +25,7 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 ## 🧠 Interests 
 <!-- & Projects -->
 
-- 🤖 AI-based brain mapping, eeg.
+- 🤖 AI-based brain mapping, eeg ( Electroencephalography ).
 - 🔗 Blockchain & smart contract development.
 - 📊 Higher Frequency Trading Algorithm.
 <!-- 
