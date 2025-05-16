@@ -52,29 +52,29 @@ A web application designed to simplify property rental management, enabling land
 
 ### 📚 Your Library -  Library Management System
 A web application to organize, track, and review book collection with user-friendly features like book status, ratings.
-**Tech Stack:** `Django`
-[💻 GitHub Repo](https://github.com/Arannamoy-Mondal/Your-Library)
+- **Tech Stack:** `Django`
+- [💻 GitHub Repo](https://github.com/Arannamoy-Mondal/Your-Library)
 
 ### 📅 Event Management System (Java & JavaFX)
 A desktop application to manage events, including scheduling, participant registration, and notifications using Java and JavaFX.
-**Tech Stack:** `Java` `JavaFX`
-[💻 GitHub Repo](https://github.com/Arannamoy-Mondal/Event-Management-Project-Using-Java-and-JavaFX)
+- **Tech Stack:** `Java` `JavaFX`
+- [💻 GitHub Repo](https://github.com/Arannamoy-Mondal/Event-Management-Project-Using-Java-and-JavaFX)
 
 ### 📊 Cryptocurrency Yearly Market Analysis Using SQL
 A SQL-based database system to analyze global crypto adoption, transaction cost, ATM locations, and market metrics.  
-**Tech Stack:** `MySQL` `ERD` `Normalization` `MSSQL`
-[💻 GitHub Repo](https://github.com/Arannamoy-Mondal/Cryptocurrency-Yearly-Market-Analysis-Using-SQL)
+- **Tech Stack:** `MySQL` `ERD` `Normalization` `MSSQL`
+- [💻 GitHub Repo](https://github.com/Arannamoy-Mondal/Cryptocurrency-Yearly-Market-Analysis-Using-SQL)
 
 ### 🧥 Winter Clothing Donation Platform
 A responsive web application for organizing and tracking winter clothing donation campaigns in Bangladesh.  
-**Tech Stack:** `React` `Tailwind CSS` `Firebase Auth`
-[💻 GitHub Repo](https://github.com/Arannamoy-Mondal/PHW-A-9)
+- **Tech Stack:** `React` `Tailwind CSS` `Firebase Auth`
+- [💻 GitHub Repo](https://github.com/Arannamoy-Mondal/PHW-A-9)
 
 ### 🤝 Crowdcude - Crowd Funding Platform
 A web platform that enables users to create and support fundraising campaigns.
 
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Firebase Auth`
-[💻 GitHub Repo](https://github.com/Arannamoy-Mondal/PHW-A-10-Frontend)
+- **Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Firebase Auth`
+- [💻 GitHub Repo](https://github.com/Arannamoy-Mondal/PHW-A-10-Frontend)
 
 
 <!--
