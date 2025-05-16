@@ -27,8 +27,6 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 - 🔗 Blockchain & smart contract development.
 - 📊 Higher Frequency Trading Algorithm.
 
-## 🧩 Special Interest: 
-- Blockchain Layer 3
 <!-- 
 - 🧥 Winter Clothing Donation Platform for Bangladesh
 - 📚 Currently enrolled in [IIT Guwahati's BSc in Data Science & AI](https://www.iitg.ac.in/acad/bsc-dsai/) -->
