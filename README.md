@@ -14,7 +14,20 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 ## 🚀 Tech Stack & Tools
 `C` `C++` `Python` `Java` `Javascript` `Typescript` `React` `ExpressJS` `NodeJS` `Django` `Django Rest Framework` `Solidity` `MySQL` `PostgreSQL` `MongoDB` `Firebase` 
 
+<ul>
+  <li>Languages - `C` `C++` `Golang` `Java` `Javascript` `Typescript` `SQL` </li>
+</ul>
 
+<!--
+Backend - Spring Boot Node.js Express.js
+Frontend - React
+Database - PostgreSQL OracleDB MongoDB
+Data Stores - Redis Kafka
+Tools - Git Github workflow
+Testing - JUnit5 Mockito Gatling Testify Test Container
+Infra - Docker Kubernetes Linux
+Cloud - Azure Cloud Service
+Productivity - Jira MS Powerpoint Adobe Photoshop-->
 ---
 
 ## 🧠 Interests 
