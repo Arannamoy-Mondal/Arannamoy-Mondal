@@ -12,20 +12,8 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 ---
 
 ## 🚀 Tech Stack & Tools
+`C` `C++` `Python` `Java` `Javascript` `React` `ExpressJS` `NodeJS` `Django` `Django Rest Framework` `MySQL` `PostgreSQL` `MongoDB` `Firebase`
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
 ---
 
@@ -41,15 +29,6 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arannamoy-Mondal&layout=compact" width="48%">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Arannamoy-Mondal&show_icons=true&theme=tokyonight" width="48%" />
- <br>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arannamoy-Mondal">
-</p>
 
 ---
 
