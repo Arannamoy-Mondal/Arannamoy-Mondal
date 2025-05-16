@@ -41,7 +41,7 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 - 🔢 Solved **450+** problems on platforms like Codeforces, LeetCode, and HackerRank
 - 🚀 Always improving logic & algorithmic thinking!
 <!--### 📍 Platforms:-->
---->
+---
 
 ## 🚀 Projects
 
