@@ -47,8 +47,8 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 
 ### 🏠 Qrent - Rental Management Platform
 A web application designed to simplify property rental management, enabling landlords and tenants to manage listings and agreements efficiently.
-**Tech Stack:** `HTML` `CSS` `Javascript` `Django Rest Framework`
-[💻 GitHub Repo](https://github.com/Arannamoy-Mondal/qrent)
+- **Tech Stack:** `HTML` `CSS` `Javascript` `Django Rest Framework`
+- [💻 GitHub Repo](https://github.com/Arannamoy-Mondal/qrent)
 
 ### 📚 Your Library -  Library Management System
 A web application to organize, track, and review book collection with user-friendly features like book status, ratings.
