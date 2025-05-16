@@ -44,7 +44,7 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arannamoy-Mondal&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arannamoy-Mondal&layout=compact" width="48%">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Arannamoy-Mondal&show_icons=true&theme=tokyonight" width="48%" />
  <br>
