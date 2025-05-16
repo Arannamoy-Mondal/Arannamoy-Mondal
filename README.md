@@ -12,7 +12,7 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 ---
 
 ## 🚀 Tech Stack & Tools
-`C` `C++` `Python` `Java` `Javascript` `React` `ExpressJS` `NodeJS` `Django` `Django Rest Framework` `Solidity` `MySQL` `PostgreSQL` `MongoDB` `Firebase` 
+`C` `C++` `Python` `Java` `Javascript` `Typescript` `React` `ExpressJS` `NodeJS` `Django` `Django Rest Framework` `Solidity` `MySQL` `PostgreSQL` `MongoDB` `Firebase` 
 
 
 ---
