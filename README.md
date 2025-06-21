@@ -17,7 +17,7 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 
 - **Backend :** `Django` `Node.js` `Express.js` `Firebase`
 
-- **Database :** `MySQL` `PostgreSQL` `MongoDB`
+- **Database :** `MySQL` `PostgreSQL` `MongoDB` `Mongoose`
 
 - **Tools :** `Git` `Github`
 
