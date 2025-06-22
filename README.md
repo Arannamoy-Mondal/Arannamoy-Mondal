@@ -43,7 +43,8 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
   
 <!-- ### 📍 Platforms: -->
 
-### 📲 Connect with me:
+## 📲 Connect with me:
+
 - [Medium](https://arannamoymondal.medium.com/)
 ---
 
