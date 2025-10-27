@@ -113,8 +113,3 @@ _“Striving to blend the power of engineering, intelligence, and creativity to 
 <a href="https://medium.com/@arannamoymondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arannamoy-mondal" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arannamoy-mondal&show_icons=true&locale=en&layout=compact" alt="arannamoy-mondal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arannamoy-mondal&show_icons=true&locale=en" alt="arannamoy-mondal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arannamoy-mondal&" alt="arannamoy-mondal" /></p>
