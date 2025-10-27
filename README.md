@@ -99,7 +99,6 @@ _“Striving to blend the power of engineering, intelligence, and creativity to 
 <!-- Customize -->
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arannamoy-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="arannamoy-mondal" /> </p>
 
@@ -111,7 +110,7 @@ _“Striving to blend the power of engineering, intelligence, and creativity to 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/@arannamoy-mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arannamoy-mondal" height="30" width="40" /></a>
+<a href="https://medium.com/@arannamoymondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arannamoy-mondal" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arannamoy-mondal&show_icons=true&locale=en&layout=compact" alt="arannamoy-mondal" /></p>
