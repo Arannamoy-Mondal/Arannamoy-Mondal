@@ -47,6 +47,9 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 
 - [Medium](https://arannamoymondal.medium.com/)
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arannamoy-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="arannamoy-mondal" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arannamoy-mondal" alt="arannamoy-mondal" /></a> </p>
 
 <!--## 🚀 Projects
 
