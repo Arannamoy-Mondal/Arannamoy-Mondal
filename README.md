@@ -47,8 +47,6 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 
 - [Medium](https://arannamoymondal.medium.com/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=arannamoy-mondal)](https://git.io/streak-stats)
-
 <!--## 🚀 Projects
 
 ### 🏠 Qrent - Rental Management Platform
