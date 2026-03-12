@@ -46,7 +46,8 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 ## 📲 Connect with me:
 
 - [Medium](https://arannamoymondal.medium.com/)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arannamoy-mondal&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=arannamoy-mondal)](https://git.io/streak-stats)
 
 <!--## 🚀 Projects
 
