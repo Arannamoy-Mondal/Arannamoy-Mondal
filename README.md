@@ -27,9 +27,7 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 - 🔗 Blockchain & smart contract development.
 - 📊 Higher Frequency Trading Algorithm.
 
-<!-- 
-- 🧥 Winter Clothing Donation Platform for Bangladesh
-- 📚 Currently enrolled in [IIT Guwahati's BSc in Data Science & AI](https://www.iitg.ac.in/acad/bsc-dsai/) -->
+
 
 
 ## 📚 Currently Learning
@@ -96,4 +94,30 @@ _“Striving to blend the power of engineering, intelligence, and creativity to 
 
 
 <!-- Customize -->
+# Hi, I'm Arannamoy Mondal
 
+## 🔥 Streak
+> Shows your current streak and max streak automatically.
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Arannamoy-Mondal&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arannamoy-Mondal&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats"/>
+</p>
+
+## 🧠 Top Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arannamoy-Mondal&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
+</p>
+
+## About me
+- 🌱 Currently learning: ...
+- 💼 Working on: ...
+- 📫 How to reach me: ...
+
+## Links
+- LinkedIn: ...
+- Portfolio: ...
