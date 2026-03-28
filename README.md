@@ -4,7 +4,7 @@
 💻 Aspiring AI | 🌊  Blockchain & Smart Contracts Enthusiast
 
 <!--Welcome to my GitHub profile! I'm currently pursuing a dual degree in:
-- 🛠 **Naval Architecture and Marine Engineering (NAME)** from **BUET**
+
 - 💻 **Computer Science and Engineering (CSE)** from **UAP** -->
 
 I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and **brain-computer interfaces**, and I enjoy solving real-world problems with technology.
