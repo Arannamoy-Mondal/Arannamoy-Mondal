@@ -21,6 +21,8 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 
 - **Machine Learning / AI:** `Pytorch`
 
+- **Computer Vision:**: `OpenCV` `YOLO`
+
 - **Data Science & ML Tools:** `Numpy`, `Pandas`, `MLflow`
 
 - **AI / LLM Frameworks:** `LangChain`
