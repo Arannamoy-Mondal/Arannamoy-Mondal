@@ -19,17 +19,17 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 
 - **Backend Technologies:** `Django` `Node.js` `Express.js` `Firebase` `Spring Boot` 
 
-- **Machine Learning / AI:** `Pytorch` `Scikit-learn`
+- **Machine Learning / AI:** `Pytorch` 
 
 <!-- - **Computer Vision:**: `OpenCV` `YOLO` -->
 
-- **Data Science & ML Tools:** `Numpy`, `Pandas`, `MLflow`
+- **Data Science & ML Tools:** `Scikit-learn` `Numpy`, `Pandas`, `MLflow`
 
 - **AI / LLM Frameworks:** `LangChain`
 
 - **AI Integration:** `Spring AI`
   
-- **Database :** `MySQL` `PostgreSQL` `MongoDB` 
+- **Databases :** `MySQL` `PostgreSQL` `MongoDB` 
 
 - **Tools :** `Git` `Github` `Apache Airflow` `Docker` `Podman`
 
