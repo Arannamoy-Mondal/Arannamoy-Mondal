@@ -15,13 +15,21 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 
 - **Programming Languages :** `C` `C++` `Go` `Java` `Javascript` `Python` `SQL` `Solidity` `Typescript` 
 
-- **Frontend Framework:** `React.js`, `Redux`
+- **Frontend Technologies:** `React.js`, `Redux`
 
-- **Backend Framework:** `Django` `Node.js` `Express.js` `Firebase` `Spring Boot` `Pytorch`
+- **Backend Technologies:** `Django` `Node.js` `Express.js` `Firebase` `Spring Boot` `Pytorch`
 
+- **Machine Learning / AI:** `Pytorch`
+
+- **Data Science & ML Tools:** `Numpy`, `Pandas`, `MLflow`
+
+- **AI / LLM Frameworks:** `LangChain`
+
+- **AI Integration:** `Spring AI`
+  
 - **Database :** `MySQL` `PostgreSQL` `MongoDB` 
 
-- **Tools :** `Git` `Github`
+- **Tools :** `Git` `Github` `Apache Airflow` `Docker` `Podman`
 
 ## 🌟 Highly Interested In
 <!-- & Projects -->
