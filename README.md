@@ -101,8 +101,9 @@ _“Striving to blend the power of engineering, intelligence, and creativity to 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arannamoy-mondal" alt="arannamoy-mondal" /></a> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arannamoy-mondal&show_icons=true&locale=en&layout=compact" alt="arannamoy-mondal" /></p>
---->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arannamoy-mondal&" alt="arannamoy-mondal" /></p>
+--->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arannamoy-mondal&show_icons=true&locale=en&layout=compact" alt="arannamoy-mondal" /></p>
 
