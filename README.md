@@ -17,7 +17,7 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 
 - **Frontend Technologies:** `React.js`, `Redux`
 
-- **Backend Technologies:** `Django` `Node.js` `Express.js` `Firebase` `Spring Boot` `Pytorch`
+- **Backend Technologies:** `Django` `Node.js` `Express.js` `Firebase` `Spring Boot` 
 
 - **Machine Learning / AI:** `Pytorch`
 
