@@ -15,7 +15,7 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 
 - **Programming Languages :** `C` `C++` `Go` `Java` `Javascript` `Python` `SQL` `Solidity` `Typescript` 
 
-- **Frontend Technologies:** `React.js`, `Redux`
+- **Frontend Technologies:** `React.js`
 
 - **Backend Technologies:** `Django` `Node.js` `Express.js` `Firebase` `Spring Boot` 
 
