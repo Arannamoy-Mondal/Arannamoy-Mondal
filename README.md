@@ -31,7 +31,7 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 
 
 ## 📚 Currently Learning
-- `Data Science & Visualization`
+- `Machine Learning & Computer Vision`
 - `Deep Learning & LLMs`
 
 
@@ -45,7 +45,7 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 
 - [Medium](https://arannamoymondal.medium.com/)
 
-<!--## 🚀 Projects
+## 🚀 Projects
 
 ### 🏠 Qrent - Rental Management Platform
 A web application designed to simplify property rental management, enabling landlords and tenants to manage listings and agreements efficiently.
