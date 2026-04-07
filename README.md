@@ -23,7 +23,7 @@ I’m deeply passionate about **Artificial Intelligence**, **Blockchain**, and *
 
 <!-- - **Computer Vision:**: `OpenCV` `YOLO` -->
 
-- **Data Science & ML Tools:** `Scikit-learn` `Numpy`, `Pandas`, `MLflow`
+- **Data Science & ML Tools:** `Scikit-learn` `Numpy` `Pandas` `MLflow`
 
 - **AI / LLM Frameworks:** `LangChain`
 
