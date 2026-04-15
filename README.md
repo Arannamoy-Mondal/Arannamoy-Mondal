@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arannamoy Mondal
 
-💻 Aspiring AI/ML Engineer | ⚙️ Backend Developer | 🌊 Blockchain Enthusiast
+💻 Aspiring AI/ML Learner | ⚙️ Backend Developer | 🌊 Blockchain Enthusiast
 
 I’m an AI and Machine Learning enthusiast with a strong foundation in Object-Oriented Programming (OOP), Data Structures, and Algorithms. I enjoy solving complex algorithmic problems and am deeply passionate about building intelligent systems, LLMs, and scalable data-driven applications.
 
