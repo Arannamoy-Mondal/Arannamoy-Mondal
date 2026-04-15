@@ -50,12 +50,6 @@ A SQL-based database system to analyze global crypto adoption, transaction costs
 
 *(Note: Additional web projects like Crowdcude and Winter Clothing Donation Platform are available in my repositories).*
 
----
-
-## 🧠 Problem Solving
-- [cite_start]🔢 **Extensive Track Record:** Solved hundreds of algorithmic problems across competitive programming platforms like **Codeforces**, **LeetCode**, and **HackerRank**. [cite: 6, 19]
-- [cite_start]🚀 **Core Focus:** Deeply committed to mastering Data Structures and Algorithms (DSA) to build optimized and scalable software. 
-- [cite_start]📈 **Continuous Learning:** Actively participating in contests and challenges to refine logic and analytical thinking.
   
 ## 📚 Currently Learning
 - `Deep Learning & LLMs`
